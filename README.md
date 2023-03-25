@@ -30,3 +30,5 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=black"/>
 <br/>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D2PANG&show_icons=true&theme=radical)
