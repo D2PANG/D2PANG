@@ -1,6 +1,7 @@
 <div align = "center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D2PANG&show_icons=true&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+  
 <h3>💻Lee Ho Young💻</h3>
 
 <br/>
@@ -32,3 +33,5 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=black"/>
 <br/>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D2PANG&show_icons=true&theme=radical)
