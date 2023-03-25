@@ -8,10 +8,10 @@
 
 <a href="https://www.instagram.com/_dpang/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_dpang_/"/></a>
 <a href="https://github.com/D2PANG"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/D2PANG"/></a>
-<a href="https://www.twitch.com/d_pang/"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.com/d_pang/"/></a>
+<a href="https://www.notion.so/4656b1c979d74c95b197eec6399c6c86"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=[https://www.notion.so/4656b1c979d74c95b197eec6399c6c86/](https://www.notion.so/4656b1c979d74c95b197eec6399c6c86)"/></a>
 <br/>
 <a href="https://www.youtube.com/@DPANG/"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@DPANG/"/></a>
-<a href="https://www.notion.so/4656b1c979d74c95b197eec6399c6c86"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=[https://www.notion.so/4656b1c979d74c95b197eec6399c6c86/](https://www.notion.so/4656b1c979d74c95b197eec6399c6c86)"/></a>
+<a href="https://www.twitch.com/d_pang/"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.com/d_pang/"/></a>
 <a href="mailto:ghdud59@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghdud59@gmail.com"/>
 </a><br/>
   
