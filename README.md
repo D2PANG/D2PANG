@@ -10,14 +10,15 @@
 <a href="https://www.youtube.com/@DPANG/"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@DPANG/"/></a>
 <a href="https://www.notion.so/4656b1c979d74c95b197eec6399c6c86"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=[https://www.notion.so/4656b1c979d74c95b197eec6399c6c86/](https://www.notion.so/4656b1c979d74c95b197eec6399c6c86)"/></a>
 <a href="mailto:ghdud59@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghdud59@gmail.com"/>
-</a>
+</a><br/>
+  
 ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
 <h3>📚 Studying 📚</h3>
 <div>
 <br/>
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=c sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
